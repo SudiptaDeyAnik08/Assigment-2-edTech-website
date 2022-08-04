@@ -1,3 +1,14 @@
 #navi{
     font-weight:bold;
 }
+#showNumber div{
+   margin-right: 20px;
+}
+#showNumber h3{
+    font-weight:bold;
+    
+}
+
+.star{
+    color: goldenrod;
+}
